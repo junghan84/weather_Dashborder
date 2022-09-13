@@ -1,73 +1,59 @@
+# Unit 4: Weather_Dashborder
 
-# Best-book-search
-​
-## License
-​
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br> License Link:<br> https://opensource.org/licenses/MIT
-​
+## Description
+A web-based dashboard built to show the current weather in a city of choice and the upcoming five (5) day forecast for that city. Using HTML, CSS, JavaScript, Open Weather APIs, Bootsrap API and Momnet.js 
+
 ## Table of Contents
-​
-[Author Name](#JungHan Seo) <br>
-[Deployed Page](#deployed-page) <br>
-[GitHub Repo](#github-repo) <br>
-[Project Description](#Password Generate)<br>
-[Installation](#installation)<br>
-[Usage](#usage)<br>
-[Test Instructions](#test-instructions)<br>
-[Contribution Guidelines](#contribution)<br>
-[Preview Image](#preview-image)<br>
-[Video Walkthrough](#video-walkthrough)<br>
-[GitHub username](#github-username)<br>
-[Contact Me!](#contact-me-with-questions)<br>
-​
-## Author Name
-​
+
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Screenshot](#screenshot)
+- [Using](#Using)
+
+
+
+
+# User Story
+
+```md
+I want to use open source make weather forecast.
+```
+
+## Acceptance Criteria
+
+```md
+GIVEN I am taking a code quiz
+WHEN I click the start button
+THEN a timer starts and I am presented with a question
+WHEN I answer a question
+THEN I am presented with another question
+WHEN I answer a question incorrectly
+THEN time is subtracted from the clock
+WHEN all questions are answered or the timer reaches 0
+THEN the game is over
+WHEN the game is over
+THEN I can save my initials and my score
+```
+## Using
+
+* HTML
+* CSS
+* Javascript
+* Open Weather APIs 
+* Bootstrap API
+* Moment.js API
+
+
+## Screenshot
+
+screenshot for generate HTML webpages
+
+![screenshot](./assets/images/weather-Homepage.png) 
+
+## Deployed link
+
+![Note Taker App] (https://drive.google.com'/file/d/1CO4TfmxIbAF89L4Y3TEJqE-JKNVez4n8/view) 
+
+## Authors
 JungHan Seo
-​
-## Deployed Page
-​
-https://best-book-search-google.herokuapp.com/
-​
-## GitHub Repo
-​
-[junghan84](hhttps://junghan84.github.io/Code-Quiz/)
-​
-## Video Walkthrough
-
-## Features
-*HTML
-*CSS
-*JavaScript
-​
-## Project Description
-
-This project is using HTML design, using CSS decorate HTML and using JavaScript make a function. 
-​
-## Installation
-1.Clone repository
-2.Read README file and follow the installation step.
-3.Using JavaScript created code.
-​
-## Usage
-​
-To search google books and save favorites to your account.
-​
-## Test Instructions
-​
-n/a
-​
-## Contribution
-​
-n/a
-​
-## Preview Image
-​
-
-​
-## GitHub userName
-​
-[junghan84](https://junghan84.github.io/Code-Quiz/)
-​
-## Contact me with questions
-​
-junghanseo84@gmail.com
