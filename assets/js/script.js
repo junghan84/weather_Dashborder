@@ -25,7 +25,7 @@ var formSumbitHandler = function(event){
 
 var saveSearch = function(){
     localStorage.setItem("cities", JSON.stringify(cities));
-};"ab7f1ffdbd4f0049725ff49516e7726b"
+};
 
 var getCityWeather = function(city){
   var apiKey = "ab7f1ffdbd4f0049725ff49516e7726b"
@@ -86,7 +86,7 @@ var displayWeather = function(weather, searchCity){
 }
 
 var getUvIndex = function(lat,lon){
-    var apiKey = "844421298d794574c100e3409cee0499"
+    var apiKey = "ab7f1ffdbd4f0049725ff49516e7726b"
     var apiURL = `https://api.openweathermap.org/data/2.5/uvi?appid=${apiKey}&lat=${lat}&lon=${lon}`
     fetch(apiURL)
     .then(function(response){
@@ -123,7 +123,7 @@ var displayUvIndex = function(index){
 }
 
 var get5Day = function(city){
-    var apiKey = "844421298d794574c100e3409cee0499"
+    var apiKey = "ab7f1ffdbd4f0049725ff49516e7726b"
     var apiURL = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&units=imperial&appid=${apiKey}`
 
     fetch(apiURL)
