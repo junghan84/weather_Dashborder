@@ -1,4 +1,4 @@
-# Unit 4: Weather_Dashborder
+# Unit 6: Weather_Dashborder
 
 ## Description
 A web-based dashboard built to show the current weather in a city of choice and the upcoming five (5) day forecast for that city. Using HTML, CSS, JavaScript, Open Weather APIs, Bootsrap API and Momnet.js 
