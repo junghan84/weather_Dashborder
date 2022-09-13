@@ -8,10 +8,11 @@ A web-based dashboard built to show the current weather in a city of choice and 
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Screenshot](#screenshot)
 - [Using](#Using)
-
-
+- [Screenshot](#screenshot)
+- [Deployed link](#Deployed-link)
+- [Repo link](#Repo-link)
+- [Authors](#Authors)
 
 
 # User Story
@@ -51,9 +52,13 @@ screenshot for generate HTML webpages
 
 ![screenshot](./assets/images/weather-Homepage.png) 
 
-## Deployed link
+## Deployed-link
 
-![Note Taker App] (https://drive.google.com'/file/d/1CO4TfmxIbAF89L4Y3TEJqE-JKNVez4n8/view) 
+![Weather_Dashborder](at https://junghan84.github.io/weather_Dashborder/) 
+
+## Repo-link
+
+![Weather_Dashborder](at https://github.com/junghan84/weather_Dashborder ) 
 
 ## Authors
 JungHan Seo
